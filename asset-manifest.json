@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/election/static/css/main.420ffc50.chunk.css",
+    "main.js": "/election/static/js/main.62eb2f39.chunk.js",
+    "main.js.map": "/election/static/js/main.62eb2f39.chunk.js.map",
+    "runtime-main.js": "/election/static/js/runtime-main.9e144120.js",
+    "runtime-main.js.map": "/election/static/js/runtime-main.9e144120.js.map",
+    "static/js/2.07c876c6.chunk.js": "/election/static/js/2.07c876c6.chunk.js",
+    "static/js/2.07c876c6.chunk.js.map": "/election/static/js/2.07c876c6.chunk.js.map",
+    "index.html": "/election/index.html",
+    "precache-manifest.0b27740fb09d9f4383a6b27efeaa72fd.js": "/election/precache-manifest.0b27740fb09d9f4383a6b27efeaa72fd.js",
+    "service-worker.js": "/election/service-worker.js",
+    "static/css/main.420ffc50.chunk.css.map": "/election/static/css/main.420ffc50.chunk.css.map",
+    "static/js/2.07c876c6.chunk.js.LICENSE.txt": "/election/static/js/2.07c876c6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/election/static/media/icon-check.4cffa739.svg",
+    "static/media/logo.png": "/election/static/media/logo.366c6bf5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e144120.js",
+    "static/js/2.07c876c6.chunk.js",
+    "static/css/main.420ffc50.chunk.css",
+    "static/js/main.62eb2f39.chunk.js"
+  ]
+}
